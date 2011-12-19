@@ -1,0 +1,38 @@
+body {
+    font: 14px Arial, "Helvetica Neue", sans-serif;
+    margin: 20px 20px 400px;
+    padding: 0;
+    background: #fff;
+    color: #000;
+}
+li {
+    display: inline;
+}
+div {
+    margin: 0 0 20px;
+}
+
+.sample {
+    margin: 0 0 26px;
+}
+.sample1 {
+    background: #FFF;
+}
+.sample1 th {
+    background: #121C28;
+    color: #FFF;
+    padding: 2px 4px;
+    text-align: left;
+}
+.sample1 td {
+    background: #DDE5F0;
+    padding: 2px 4px;
+}
+.sample1 .even td {
+    background: #FFF;
+}
+#pp {
+ background:#efefef;
+ border:1px solid #ccc;
+ height: 30px;
+}
