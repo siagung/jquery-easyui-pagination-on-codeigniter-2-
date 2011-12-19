@@ -1,4 +1,3 @@
-
 # Example - Codeigniter ajax pagination with jquery easyui
 
 ## What's this
@@ -21,3 +20,5 @@ That's it!
 ### application/config/routes.php
 
   $route['default_controller'] = "barang_ctl";
+  
+#### Don't forget to setup database configuration
