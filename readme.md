@@ -22,3 +22,5 @@ That's it!
   $route['default_controller'] = "barang_ctl";
   
 #### Don't forget to setup database configuration
+
+*add CRUD function -> https://github.com/siagung/CRUD_dengan_jquery_dan_codeigniter
